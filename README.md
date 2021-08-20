@@ -7,7 +7,9 @@ To start, first download ml-1m and ml-20m dataset and put them in the correspond
 With running main.py, you can choose by entering 1 or 20 for corresponding dataset
 After training, you can choose wheter to test with y or n
 ## TET4REC 
+```bash
 python3 main.py --template train_bert
+```
 ## hyper-parameter settings
 Specific parameter can be adjusted by modifying templates.py
 ## Requirement
