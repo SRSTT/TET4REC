@@ -11,11 +11,11 @@ python3 main.py --template train_bert
 ## hyper-parameter settings
 Specific parameter can be adjusted by modifying templates.py
 ## Requirement
-wget==3.2
-tqdm==4.36.1
-numpy==1.16.2
-torch==1.3.0
-tb-nightly==2.1.0a20191121
-pandas==0.25.0
-scipy==1.3.2
-future==0.18.2
+wget==3.2  
+tqdm==4.36.1  
+numpy==1.16.2  
+torch==1.3.0  
+tb-nightly==2.1.0a20191121  
+pandas==0.25.0  
+scipy==1.3.2  
+future==0.18.2  
