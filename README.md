@@ -2,11 +2,12 @@
 This repository implements the TET4REC 
 # Usage
 ## Overall
-Run main.py with arguments to train  or test you model.
+Run main.py with arguments to train or test your model.
+## Download the dataset
 To start, first download ml-1m and ml-20m dataset and put them in the corresponding folder. 
-With running main.py, you can choose by entering 1 or 20 for corresponding dataset
+## Run
+With running main.py, you can choose by entering 1 or 20 for corresponding dataset.
 After training, you can choose wheter to test with y or n
-## TET4REC 
 ```bash
 python3 main.py --template train_bert
 ```
